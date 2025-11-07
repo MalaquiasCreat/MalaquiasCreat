@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MalaquiasCreat&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="MalaquiasCreat's GitHub Stats"/>
-  <img width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MalaquiasCreat&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="MalaquiasCreat's Top Languages"/>
+  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=higorMalaquias&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="higorMalaquias's GitHub Stats"/>
+  <img width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=higorMalaquias&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="higorMalaquias's Top Languages"/>
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalaquiasCreat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=higorMalaquias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalaquiasCreat&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=higorMalaquias&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
