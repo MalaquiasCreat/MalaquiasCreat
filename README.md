@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  🚀 Passionate about building innovative solutions & exploring emerging technologies.  
+  Focused on creating innovative solutions and exploring emerging technologies.  
   <br/>Feel free to dive into my projects, collaborate, or connect!
 </p>
 
